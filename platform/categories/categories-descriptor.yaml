@@ -1,0 +1,15 @@
+- code: mycat__BUNDLE_ID__
+  parentCode: home
+  titles:
+    en: Administration
+    it: Amministrazione
+- code: yourcat__BUNDLE_ID__
+  parentCode: mycat__BUNDLE_ID__
+  titles:
+    en: Documents and data
+    it: Documenti e dati
+- code: simple
+  parentCode: home
+  titles:
+    en: News
+    it: Notizie

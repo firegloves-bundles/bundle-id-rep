@@ -1,0 +1,12 @@
+code: test__BUNDLE_ID__
+parentCode: homepage
+titles:
+  en: Administration
+  it: Amministrazione
+ownerGroup: my-group__BUNDLE_ID__
+joinGroups: [your-group__BUNDLE_ID__]
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+pageModel: 1-column

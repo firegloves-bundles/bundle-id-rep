@@ -1,0 +1,19 @@
+code: agi-1-menu
+titles:
+  en: Agid main menu
+  it: Agid menu primario
+group: free
+customUi: |-
+  <#assign wp=JspTaglibs["/aps-core"]__BUNDLE_ID__>
+    <li class="nav-item dropdown no-son-page" padre="">
+        <a href="<@wp.url page="administration" />" class="nav-link no-son-page" data-focus-mouse="false"><@wp.i18n key="ADMINISTRATION" /></a>
+    </li>
+    <li class="nav-item dropdown no-son-page" padre="">
+        <a href="<@wp.url page="agi_news" />" class="nav-link no-son-page"><@wp.i18n key="NOTIZIE" /></a>
+    </li>
+    <li class="nav-item dropdown no-son-page" padre="">
+        <a href="<@wp.url page="servizi" />" class="nav-link no-son-page"><@wp.i18n key="SERVIZI_F" /></a>
+    </li>
+    <li class="nav-item dropdown no-son-page" padre="">
+        <a href="<@wp.url page="documents_and_data" />" class="nav-link no-son-page"><@wp.i18n key="DOCUMENTI" /></a>
+    </li>

@@ -1,0 +1,5 @@
+- code: my-group__BUNDLE_ID__
+  name: gruppo bello
+- code: your-group__BUNDLE_ID__
+  name: gruppo brutto
+

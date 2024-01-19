@@ -1,0 +1,12 @@
+code: test-child__BUNDLE_ID__
+parentCode: test__BUNDLE_ID__
+titles:
+  en: child
+  it: child
+ownerGroup: my-group__BUNDLE_ID__
+joinGroups: [your-group__BUNDLE_ID__]
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+pageModel: agid_1-column__BUNDLE_ID__

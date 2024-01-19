@@ -1,0 +1,14 @@
+id: 20011
+contentType: TCL
+description: Argomenti in evidenza homepage (ARG)
+contentShape: |-
+  <!--Argomenti in evidenza homepage (ARG)-->
+  <div class="no-after rounded shadow card-teaser card">
+    <div class="pb-5 card-body"><div class="category-top">
+            <a class="category">
+                <svg class="icon">
+                <use href="/entando-de-app/cmsresources/agi-template__BUNDLE_ID__/img/sprite.svg#$content.icon.mapKey"></use>
+                </svg>
+            </a>
+      </div> 
+  </div>

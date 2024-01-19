@@ -1,0 +1,6 @@
+code: agi-1-menu-path__BUNDLE_ID__
+titles:
+  en: Agid main menu
+  it: Agid menu primario
+group: free
+customUiPath: agi-1-menu-descriptor-path.html

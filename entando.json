@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "bundle-id-rep",
+    "version": "0.0.1",
+    "description": "bundle-id-rep description",
+    "type": "bundle"
+}
